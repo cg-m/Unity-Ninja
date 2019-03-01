@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: 75846197df9e4e746876c34b56fbea85
+timeCreated: 1509679057
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jump
+    21300002: New Atlas.dds_1
+    21300004: pause
+    21300006: Right
+    21300008: New Atlas.dds_4
+    21300010: Play
+    21300012: Orange-Player-Lock
+    21300014: Violet-player
+    21300016: replay
+    21300018: Red-Player
+    21300020: Blue-Player
+    21300022: Violet-Player-Lock
+    21300024: Menu
+    21300026: Red-Player-Lock
+    21300028: Orange-Player
+    21300030: Star
+    21300032: select character
+    21300034: The
+    21300036: Video
+    21300038: To
+    21300040: Be
+    21300042: Revived
+    21300044: New Atlas.dds_22
+    21300046: New Atlas.dds_23
+    21300048: New Atlas.dds_24
+    21300050: New
+    21300052: Map
+    21300054: New Atlas.dds_27
+    21300056: New Atlas.dds_28
+    21300058: Mute
+    21300060: Music
+    21300062: Slash
+    21300064: Watch
+    21300066: New Atlas.dds_3
+    21300068: Unlock
+    21300070: Victory
+    21300072: Pause
+    21300074: Exit
+    21300076: Game Name
+    21300078: HUD
+    21300080: HUD Background
+    21300082: backgrondPanel
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jump
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 825
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Atlas.dds_1
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 875
+        width: 140
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pause
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 875
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Right
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 873
+        width: 127
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Atlas.dds_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 508
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Play
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 556
+        width: 141
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orange-Player-Lock
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 624
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Violet-player
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 622
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: replay
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 748
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Red-Player
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 293
+        width: 253
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue-Player
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 372
+        width: 251
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Violet-Player-Lock
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 371
+        width: 251
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Menu
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 456
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Red-Player-Lock
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 121
+        width: 251
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orange-Player
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 119
+        width: 252
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Star
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 359
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: select character
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 121
+        width: 695
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: The
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 80
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Video
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 80
+        width: 99
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: To
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 80
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Be
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 80
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Revived
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 80
+        width: 132
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Atlas.dds_22
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 41
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Atlas.dds_23
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 41
+        width: 99
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Atlas.dds_24
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 3
+        width: 754
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 41
+        width: 77
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Map
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 41
+        width: 71
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Atlas.dds_27
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 0
+        width: 110
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Atlas.dds_28
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 0
+        width: 207
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mute
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 649
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Music
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 553
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slash
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 197
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Watch
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 80
+        width: 116
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Atlas.dds_3
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 41
+        width: 115
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unlock
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 41
+        width: 130
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Victory
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 711
+        width: 600
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pause
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 829
+        width: 398
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Exit
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 943
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Name
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 658
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUD
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 978
+        width: 307
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUD Background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 943
+        width: 320
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: backgrondPanel
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 345
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
